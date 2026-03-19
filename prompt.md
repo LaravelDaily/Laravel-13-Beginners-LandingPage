@@ -1,0 +1,1 @@
+Build a very simple landing page for a fictional startup with menu items Home, About, Contact us. Use the same layout but very minimal design with Tailwind 4, which is already configured in this Laravel 13 project. Use Laravel Controllers and pass some data to Views, for the demo.
